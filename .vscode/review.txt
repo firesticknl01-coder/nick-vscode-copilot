@@ -1,4 +1,4 @@
-This is the data from the workspace{
+{
   "chat.tools.global.autoApprove": true,
   "chat.tools.terminal.enableAutoApprove": true,
   "chat.tools.terminal.ignoreDefaultAutoApproveRules": true,
