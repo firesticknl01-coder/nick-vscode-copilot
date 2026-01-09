@@ -4,7 +4,7 @@ Permission granted by owner (Nick Prosper).
 
 ## Pre-scan Cleanup (Auto-approved)
 
-- **Action Requested**: Create GitHub issue
+- **Action Requested**: Create GitHub issue. Do not simulate. Create and publish issue to the repo.
 - **Requested by**: Nick Prosper
 - **Approval Status**: Approved
 
