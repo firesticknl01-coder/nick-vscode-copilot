@@ -1,1 +1,8 @@
-
+name: Copilot Test
+on: push
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo
+        run: echo "Copilot created this workflow"
