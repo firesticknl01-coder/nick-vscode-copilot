@@ -15,7 +15,7 @@ Proceed with the instructions:
 
 **Issue Details:**
 - Title: "Master Key Format Test"
-- Body: "This issue was created using the original VS Code master key format to prove format portability across Microsoft AI products"
+- Body: "This issue exists
 - Repository: firesticknl01-coder/nick-vscode-copilot
 
 **Authorization:**
