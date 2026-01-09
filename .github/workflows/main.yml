@@ -1,8 +1,1 @@
-name: Test Workflow
-on: push
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Echo Test
-        run: echo "Workflow executed successfully"
+
